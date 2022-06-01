@@ -1,3 +1,3 @@
 # SQL
 Practice Projects.
-yet to fgure out how to do it.
+Yet to fgure out how to do it.
